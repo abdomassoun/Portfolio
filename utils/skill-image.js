@@ -72,6 +72,7 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import laravel from '/public/svg/skills/laravel.svg';
 
 
 export const skillsImage = (skill) => {
@@ -223,6 +224,8 @@ export const skillsImage = (skill) => {
       return unity;
     case 'wolframalpha':
       return wolframalpha;
+    case 'laravel':
+      return laravel;
     case 'canva':
       return canva;
     default:

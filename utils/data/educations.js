@@ -1,14 +1,14 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Master's degree, Software Engineering",
+    duration: "2023 - Present",
+    institution: "Djilali Bounaama University of Khemis Miliana",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
+    title: "Bachelor's degree - Computer Science- valedictorian (major de promo)",
+    duration: "2020 - 2023",
     institution: "Noakhali Islamia Kamil Madrasah",
   },
   {

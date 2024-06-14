@@ -6,8 +6,8 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
+        name: 'Algeria-Wilayas for Laravel',
+        description: 'This package is designed to help Laravel developers integrate wilayas data into their projects in the easiest way possible. It includes an enum of wilayas and provides the ability to create a table that includes all the data of wilayas with their information (optional to create a table of wilayas). It also includes a Wilaya model (class).',
         tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
         role: 'Backend Developer',
         code: '',
