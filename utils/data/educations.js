@@ -1,7 +1,7 @@
 export const educations = [
   {
     id: 1,
-    title: "Master's degree, Software Engineering",
+    title: "Master's degree, Software Engineering & Distributed Systems",
     duration: "2023 - Present",
     institution: "Djilali Bounaama University of Khemis Miliana",
   },
@@ -9,7 +9,7 @@ export const educations = [
     id: 2,
     title: "Bachelor's degree - Computer Science- valedictorian (major de promo)",
     duration: "2020 - 2023",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    institution: "Djilali Bounaama University of Khemis Miliana",
   },
   {
     id: 3,

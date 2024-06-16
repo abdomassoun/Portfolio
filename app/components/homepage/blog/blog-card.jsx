@@ -5,14 +5,16 @@ import Link from 'next/link';
 import { BsHeartFill } from 'react-icons/bs';
 import { FaCommentAlt } from 'react-icons/fa';
 
-function BlogCard({ blog }) {
+function BlogCard({ 
+  project}) {
+  // blog ,cover_image, title, description, reading_time_minutes, url}) {
 
   return (
     <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group"
     >
       <div className="h-44 lg:h-52 w-auto cursor-pointer overflow-hidden rounded-t-lg">
         <Image
-          src={blog?.cover_image}
+          src= {project.image}
           height={1080}
           width={1920}
           alt=""
@@ -20,7 +22,7 @@ function BlogCard({ blog }) {
         />
       </div>
       <div className="p-2 sm:p-3 flex flex-col">
-        <div className="flex justify-between items-center text-[#16f2b3] text-sm">
+        {/* <div className="flex justify-between items-center text-[#16f2b3] text-sm">
           <p>{timeConverter(blog.published_at)}</p>
           <div className="flex items-center gap-3">
             <p className="flex items-center gap-1">
@@ -34,17 +36,18 @@ function BlogCard({ blog }) {
               </p>
             }
           </div>
-        </div>
-        <Link target='_blank' href={blog.url}>
+        </div> */}
+        <Link target='_blank' href={project.url}>
           <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
-            {blog.title}
+            {project.title}
           </p>
         </Link>
         <p className='mb-2 text-sm text-[#16f2b3]'>
-          {`${blog.reading_time_minutes} Min Read`}
-        </p>
+{project.role}        </p>
+          {/* {`${blog.reading_time_minutes} Min Read`} */}
+        
         <p className='text-sm lg:text-base text-[#d3d8e8] pb-3 lg:pb-6 line-clamp-3'>
-          {blog.description}
+          {project.description}
         </p>
         {/* <div className="">
           <Link target='_blank' href={blog.url}>
