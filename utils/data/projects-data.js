@@ -1,8 +1,10 @@
 import ayla from "/public/image/ayla.jpg";
+import algeria_wilaya from "/public/image/algeria_wilayas.png";
 import crefin from "/public/image/crefin.jpg";
 import realEstate from "/public/image/real-estate.jpg";
 import travel from "/public/image/travel.jpg";
 import vitepay from "/public/image/vitepay.png";
+import anistour from "/public/image/anistour.png";
 
 export const projectsData = [
   {
@@ -15,17 +17,17 @@ export const projectsData = [
     role: "Backend Development",
     code: "",
     url: "https://github.com/abdomassoun/Algeria-Wilayas",
-    image: ayla,
+    image: algeria_wilaya,
   },
   {
-  id: 2,
+  id: 6,
   title: "School Management System",
   description:
       "I developed a School Management System that includes features such as attendance tracking for teachers and students, payment management, and class and session calendaring. The system is built using Laravel, a full-stack PHP framework. It is deployed using cPanel and version controlled using Git.",
   tools: ["Laravel", "PHP", "MySQL", "cPanel", "Git"],
   role: "Full Stack Development",
   code: "",
-  url: "",
+  url: "https://github.com/abdomassoun/Portfolio/doc/SMS.md",
   image: ayla,},
 
   {
@@ -44,19 +46,19 @@ export const projectsData = [
     ],
     role: "Backend Development & Server Deployment",
     code: "",
-    url: "",
+    url: "https://github.com/abdomassoun/Portfolio/doc/vitepay.md",
     image: vitepay,
   },
   {
-    id: 6,
+    id: 2,
     title: "Rental Car Management System",
     description:
         "I developed a Rental Car Management System for a freelance project. The system includes features such as rental car management, order tracking, payment tracking, employee management, and customer tracking. It is built using Laravel, a full-stack PHP framework, and utilizes Livewire for interactive UI components. The database is managed using MySQL, and the frontend is styled using Bootstrap.",
     tools: ["Laravel", "Livewire", "MySQL", "Bootstrap"],
     role: "Full Stack Development",
     code: "",
-    url: "",
-    image: ayla,
+    url: "https://github.com/abdomassoun/Portfolio/doc/anistour.md",
+    image: anistour,
 },
 //   {
 //     id: 5,
