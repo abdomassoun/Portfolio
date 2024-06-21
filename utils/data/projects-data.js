@@ -27,7 +27,7 @@ export const projectsData = [
   tools: ["Laravel", "PHP", "MySQL", "cPanel", "Git"],
   role: "Full Stack Development",
   code: "",
-  url: "https://github.com/abdomassoun/Portfolio/doc/SMS.md",
+  url: "https://github.com/abdomassoun/Portfolio/blob/main/doc/sms.md",
   image: ayla,},
 
   {
@@ -46,7 +46,7 @@ export const projectsData = [
     ],
     role: "Backend Development & Server Deployment",
     code: "",
-    url: "https://github.com/abdomassoun/Portfolio/doc/vitepay.md",
+    url: "https://github.com/abdomassoun/Portfolio/blob/main/doc/vitepay.md",
     image: vitepay,
   },
   {
@@ -57,7 +57,7 @@ export const projectsData = [
     tools: ["Laravel", "Livewire", "MySQL", "Bootstrap"],
     role: "Full Stack Development",
     code: "",
-    url: "https://github.com/abdomassoun/Portfolio/doc/anistour.md",
+    url: "https://github.com/abdomassoun/Portfolio/blob/main/doc/anistour.md",
     image: anistour,
 },
 //   {
