@@ -60,29 +60,6 @@ export const projectsData = [
     url: "https://github.com/abdomassoun/Portfolio/blob/main/doc/anistour.md",
     image: anistour,
 },
-//   {
-//     id: 5,
-//     title: "Newsroom Management",
-//     description:
-//       "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-//     tools: ["NextJS", "Material UI", "Redux", "Sun Editor", "Calendar"],
-//     code: "",
-//     url: "",
-//     image: ayla,
-//     role: "Full Stack Developer",
-//   },
+
 ];
 
-// Do not remove any property.
-// Leave it blank instead as shown below
-
-// {
-//     id: 1,
-//     title: '',
-//     description: "",
-//     tools: [],
-//     role: '',
-//     code: '',
-//     url: '',
-//     image: crefin,
-// },
