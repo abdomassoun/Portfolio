@@ -4,7 +4,7 @@ import vitepay from "/public/image/vitepay.png";
 export const projectsData = [
   {
     id: 1,
-    title: "Diraya Backend Refactoring & API Development",
+    title: "Diraya Inc.",
     description:
       "At Diraya Inc., I worked on refactoring a legacy Laravel backend to improve scalability, readability, and maintainability. I applied SOLID principles, introduced clean architecture patterns, and developed RESTful APIs. The project also included writing unit, feature, and integration tests, integrating third-party services, and managing Dockerized deployments.",
     tools: ["Laravel", "PHP", "MySQL", "Docker", "Redis", "GitHub Actions", "PHPUnit","AWS"],
