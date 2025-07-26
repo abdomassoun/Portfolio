@@ -27,6 +27,8 @@ import gimp from '/public/svg/skills/gimp.svg';
 import git from '/public/svg/skills/git.svg';
 import go from '/public/svg/skills/go.svg';
 import graphql from '/public/svg/skills/graphql.svg';
+import bash from '/public/svg/skills/bash.svg';
+import api from '/public/svg/skills/api.svg';
 import linux from '/public/svg/skills/linux.svg';
 import redis from '/public/svg/skills/redis.svg';
 import kubernetes from '/public/svg/skills/kubernetes.svg';
@@ -183,6 +185,10 @@ export const skillsImage = (skill) => {
       return kubernetes;
     case 'linux':
       return linux;
+    case 'bash':
+      return bash;
+    case 'api':
+      return api;
     case 'lightroom':
       return lightroom;
     case 'materialui':
