@@ -120,17 +120,17 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">GraphQL</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Livewire</span>
+                <span className="text-amber-300">Linux</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">GitHub</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Nginx</span>
+                <span className="text-amber-300">Kubernetes</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">GCP</span>
+                <span className="text-amber-300">AWS</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
