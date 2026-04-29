@@ -1,17 +1,17 @@
 export const personalData = {
   name: "ABDELLAH MASSOUN",
   profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABDELLAH MASSOUN. I’m a backend developer passionate about building scalable and maintainable systems. I have strong experience in coding and deploying backend applications, as well as refactoring legacy codebases. I follow SOLID principles and clean architecture, and I thrive in challenging environments that push my skills and support continuous growth.",
+  designation: "Backend Developer | DevOps",
+  description: "Backend Developer with 3+ years of experience building scalable backend systems and RESTful APIs. I have worked across logistics, fintech, and platform products, focusing on architecture refactoring, performance optimization, clean code, and reliable deployments. I enjoy solving complex backend challenges with modern engineering practices and collaborating with distributed teams.",
   email: 'abdemassoune@gmail.com',
-  phone: '+213 69660 54 87',
+  phone: '+213 696 60 54 87',
   address: 'Algeria',
   github: 'https://github.com/abdomassoun',
-  facebook: 'https://www.facebook.com/abde.muno/',
-  linkedIn: 'https://www.linkedin.com/in/abdellah-massoun-505a241b3/',
+  facebook: '',
+  linkedIn: 'https://www.linkedin.com/in/abdellah-massoun/',
   twitter: '',
   stackOverflow: '',
   leetcode: "",
   devUsername: "",
-  resume: "https://drive.google.com/file/d/1FsnWMWZwNNO15M7uA4l5fHyqrzKudqyL/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1VB_unO9CdGVcCWvrBJTs4PBXLU7wzA6e/view?usp=sharing"
 }

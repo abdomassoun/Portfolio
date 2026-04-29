@@ -1,20 +1,14 @@
 export const educations = [
   {
     id: 1,
-    title: "Master's degree, Software Engineering & Distributed Systems",
-    duration: "2023 - Present",
+    title: "Master's Degree, Software Engineering & Distributed Systems (Valedictorian)",
+    duration: "2023 - 2025",
     institution: "Djilali Bounaama University of Khemis Miliana",
   },
   {
     id: 2,
-    title: "Bachelor's degree - Computer Science- valedictorian (major de promo)",
+    title: "Bachelor's Degree, Computer Science (Valedictorian)",
     duration: "2020 - 2023",
     institution: "Djilali Bounaama University of Khemis Miliana",
-  },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
   }
 ]
